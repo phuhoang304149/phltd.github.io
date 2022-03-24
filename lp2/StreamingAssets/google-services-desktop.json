@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944015234646",
+    "firebase_url": "https://fir-acea8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-acea8",
+    "storage_bucket": "fir-acea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944015234646:android:459e260837bfffba118df7",
+        "android_client_info": {
+          "package_name": "com.littlepassports.world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944015234646-04r0vonepmfcn139i766k8r650ve99rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAwwnEAm8YDJeynD0-WCJmTVLlLRjrbF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944015234646-04r0vonepmfcn139i766k8r650ve99rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944015234646-2b50321aade46g578is9vkum5fg53q2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.CodeStringers.LittlePassports"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
